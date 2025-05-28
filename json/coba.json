@@ -1,0 +1,18 @@
+[
+{ 
+    "nama" : "Ryan Alhamda Syukra",
+    "umur" : 22,
+    "nim" : "2217020147",
+    "lulus" : false,
+    "hobby" : ["gaming", "playing guitar"],
+    "pembimbing" : "Teguh Brilian"
+},
+{ 
+    "nama" : "Hamda",
+    "umur" : 22,
+    "nim" : "2217020199",
+    "lulus" : true,
+    "hobby" : ["gaming", "listening music"],
+    "pembimbing" : "Teguh Brilian"
+} 
+]
