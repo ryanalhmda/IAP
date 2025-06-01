@@ -32,7 +32,7 @@ $profilePictureIG = $result2['profile_picture_url'];
 $followersIG = $result2['followers_count'];
 
 //media IG
-$resultGambar1 = get_Curl("https://graph.instagram.com/v22.0/18033028424382757?fields=media_url&access_token=IGAAR2TXNR64lBZAFBYZAGdYc0VNMlRTY2Q3RndySTU4RURiZAUFwTHNXenloSlpDOXZASS183cDBLRUZAQdXlnOFZAoblBsM2VXOTFfaUpKbGMya0lsclduRHRDMzlNYmpONnBfekdnOGJfU0pDcExJT3p1Wk1IbTIyelFoZADBrSDRydwZDZD");
+$resultGambar1 = get_Curl("https://graph.instagram.com/v22.0/18104391841521455?fields=media_url&access_token=IGAAR2TXNR64lBZAFBYZAGdYc0VNMlRTY2Q3RndySTU4RURiZAUFwTHNXenloSlpDOXZASS183cDBLRUZAQdXlnOFZAoblBsM2VXOTFfaUpKbGMya0lsclduRHRDMzlNYmpONnBfekdnOGJfU0pDcExJT3p1Wk1IbTIyelFoZADBrSDRydwZDZD");
 
 
 $gambar1 = $resultGambar1['media_url'];
